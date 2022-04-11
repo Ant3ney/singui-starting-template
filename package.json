@@ -1,7 +1,7 @@
 {
-	"name": "sing-ui-stylish-chruch",
+	"name": "sing-ui-template",
 	"version": "0.0.1",
-	"description": "A react UI library for creating stylish chruch websites",
+	"description": "A template for creating react UI librarys",
 	"main": "dist/cjs/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
