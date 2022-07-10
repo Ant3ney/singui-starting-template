@@ -1,6 +1,6 @@
 import ExampleComponentType from './ExampleComponentType';
-import '../packageDeps/styles/landingScreen.css';
+import '../packageDeps/styles/ExampleComponent.css';
 
 export default function ExampleComponent({ componentName }: ExampleComponentType) {
-	return <div>Hello {componentName}</div>;
+	return <div className='example-component'>Hello {componentName}</div>;
 }
