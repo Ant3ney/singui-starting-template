@@ -1,3 +1,4 @@
+import React from 'react';
 import ExampleComponentType from './ExampleComponentType';
 import '../packageDeps/styles/ExampleComponent.css';
 

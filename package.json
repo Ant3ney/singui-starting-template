@@ -1,9 +1,10 @@
 {
-	"name": "sing-ui",
-	"version": "0.0.1",
+	"name": "@ant3ney/singui",
+	"version": "0.0.3",
 	"description": "A React UI Library for various purposes.",
 	"main": "dist/index.js",
 	"module": "dist/index.js",
+	"access": "public",
 	"dependencies": {
 		"react-scripts": "5.0.0",
 		"web-vitals": "^2.1.4"
